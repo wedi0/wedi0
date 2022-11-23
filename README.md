@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Weslley
-- 👀 I’m interested in software engenier
+- 👀 I’m interested in software engenier and machine learning
 - 🌱 I’m currently learning about Python, Data and Machine Learning
 - 📫 How to reach me wediweslley@gmail.com
 
